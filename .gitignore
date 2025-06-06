@@ -2,3 +2,7 @@ logs
 data
 config
 plugins/config.py
+.idea/
+dags/__pycache__/
+plugins/__pycache__/
+plugins/naver_shopping/__pycache__/
